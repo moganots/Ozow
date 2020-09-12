@@ -1,0 +1,11 @@
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\bin\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.deps.json
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\bin\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.runtimeconfig.json
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\bin\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.runtimeconfig.dev.json
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\bin\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.dll
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\bin\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.pdb
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\obj\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.csprojAssemblyReference.cache
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\obj\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\obj\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.AssemblyInfoInputs.cache
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\obj\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.AssemblyInfo.cs
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\obj\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.dll
+C:\Development\@SampleCode\Ozow\Ozow.ConwaysGameOfLife\Ozow.ConwaysGameOfLife.ConsoleApp\obj\Debug\netcoreapp2.1\Ozow.ConwaysGameOfLife.ConsoleApp.pdb
